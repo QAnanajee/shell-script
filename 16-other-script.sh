@@ -1,4 +1,4 @@
-#!#!/bin/bash
+#!/bin/bash
 
 COURSE="Online course of AWS DEVOPS by SIVA KUMAR REDDY"
 
